@@ -1,4 +1,4 @@
-# CivicVoice AI — Intelligence v2 (Conversational Update)
+# CivicVoice AI — Complaint app
 
 A multilingual, voice-first civic complaint prototype. Citizens can describe a civic issue in Tamil, Tanglish, Telugu, Telugish, or English; review the recognised text; confirm a map location; and save a local, trackable demo record.
 
