@@ -1,0 +1,22 @@
+{
+  "name": "civicvoice-server",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "civicvoice": "file:..",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "ffmpeg-static": "^5.2.0",
+    "helmet": "^8.1.0",
+    "multer": "^2.0.2"
+  },
+  "description": "Express API for the CivicVoice civic issue reporting prototype"
+}
